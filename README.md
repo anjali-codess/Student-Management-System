@@ -1,23 +1,30 @@
-# Student Management System 🧑‍🎓📚
+# 🌐 Student Management System – Web Application
 
-A Java-based application developed in **Eclipse IDE** that provides a simple and interactive way to manage student records. This project showcases fundamental Java programming concepts including object-oriented design, data structures, and control flow.
-
----
-
-## ✨ Key Functionalities
-
-- ➕ Add new student
-- 📋 Display all students
-- 🔍 Search student by ID
-- ✏️ Edit student details
-- ❌ Remove student from system
+A full-stack **Student Management System** built using **Java (Servlets/JSP)** with a responsive web interface. This application enables users to **add**, **view**, **update**, and **delete** student records using a browser. Designed for educational purposes and demonstrating core web development concepts in Java.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
-- Programming Language: **Java**
-- Development Environment: **Eclipse IDE**
-- (Optional) Data Storage: File System / MySQL Database *(depending on your implementation)*
+### 🔧 Backend
+- Java (JSP / Servlets)
+- JDBC (Java Database Connectivity)
+- MySQL (for data storage)
+
+### 💻 Development Tools
+- Eclipse IDE (Enterprise Edition)
+- Apache Tomcat 9+
+- MySQL Workbench / phpMyAdmin
+
+---
+
+## ✨ Features
+
+- 📝 Add Student Records  
+- 📋 View All Students  
+- 🔍 Search Student by ID  
+- ✏️ Update Student Details  
+- ❌ Delete Student Records  
+- 📱 Responsive UI 
 
 
